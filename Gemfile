@@ -4,6 +4,7 @@ gem 'coffee-script-source', '1.8.0'
 gem 'pygments.rb', '=0.5.0'
 gem 'redcarpet', '~> 3.2.2'
 gem 'friendly_id', '~> 5.1'
+gem 'will_paginate', '~> 3.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
